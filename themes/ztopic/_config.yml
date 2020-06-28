@@ -15,23 +15,23 @@ menu:
 
 # site logo introduce and footer quote
 # ====================================
-logo: Ztopic
-introduce: "practice makes perfect"
-quote: "Love all, trust a few, do wrong to none.——William Shakespeare"
+logo: Danlili
+introduce: "Just Do It"
+quote: "停止奋斗， 生命也就停止了。"
 
 # social club
 # ====================================
 social:
-  zhihu: https://www.zhihu.com/
-  weibo: https://weibo.com
-  github: https://github.com/
+  ##zhihu: https://www.zhihu.com/
+  weibo: https://weibo.com/6377106586/profile?rightmod=1&wvr=6&mod=personinfo
+  github: https://github.com/jialiiu
   steam:
   linkedin:
   facebook:
-  twitter:
+  twitter: https://twitter.com/home?lang=zh-cn
   douban:
   tumblr:
-  instagram:
+  instagram: https://www.instagram.com/ljldaniel_k_ori/?hl=zh-cn 
   stackoverflow:
   rss:
 
@@ -59,6 +59,9 @@ valine:
 
 #disqus
 disqus_shortname:
+
+
+
 
 
 # ==================================

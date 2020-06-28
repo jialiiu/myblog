@@ -1,9 +1,9 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+### Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 橘子味的猫-尼
+title: Danlili
 subtitle: '希望变得更好'
 description: ''
 keywords:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yun
+theme: ztopic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
